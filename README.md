@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌟 Name: Khaleel <br>
-🎓 Education: Currently pursuing B.Tech in Computer Science and Engineering (CSE) <br>
-🌐 Interests: Passionate about web development, especially the MERN stack (MongoDB, Express.js, React, Node.js) <br>
-📊 Skills: Interested in Data Structures and Algorithms (DSA) <br>
+🌟 I am  Khaleel <br>
+🎓 Currently pursuing B.Tech in Computer Science and Engineering (CSE) <br>
+🌐 Passionate about web development, especially the MERN stack (MongoDB, Express.js, React, Node.js) <br>
+📊 Interested in Data Structures and Algorithms (DSA) <br>
