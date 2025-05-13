@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 🌟 I am  Khaleel <br>
 🎓 Currently pursuing B.Tech in Computer Science and Engineering (CSE) <br>
-🌐 Passionate about web development, especially the MERN stack (MongoDB, Express.js, React, Node.js) <br>
+🌐 Passionate about web development, especially java FullStack <br>
 📊 Interested in Data Structures and Algorithms (DSA) <br>
